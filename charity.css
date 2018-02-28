@@ -1,0 +1,22 @@
+body {
+	background-color: DarkSlateGrey ;
+}
+.quotes {
+	/*font-family:  Comic Sans MS;*/
+	font-family: fantasy;
+	color: white;
+	font-size: 34px; 
+	font-weight:bold;
+	/*font-style: italic;*/
+	  font-style: oblique;
+}
+input {
+  border:none; 
+  background-color:snow; 
+  
+  width: 100%;
+  solid gray;
+   margin-top: 7px; 
+   border-bottom: 1px; 
+    height: 40px
+}
