@@ -1,11 +1,14 @@
 body {
 	background-color: DarkSlateGrey ;
 }
+h2 {
+	color:  #ffe6e9 ;
+}
 .quotes {
 	/*font-family:  Comic Sans MS;*/
 	font-family: fantasy;
 	color: white;
-	font-size: 34px; 
+	/*font-size: 25px;*/ 
 	font-weight:bold;
 	/*font-style: italic;*/
 	  font-style: oblique;
