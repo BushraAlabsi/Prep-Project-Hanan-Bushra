@@ -1,14 +1,33 @@
 body {
-	background-color: DarkSlateGrey ;
+	background-color: #1a1a1a ;
+	font-family: Times New Roman;
+	/*border-style: double;
+	border-width: 10px;
+	border-color: gray;
+*/
+}
+/*#container {
+	border-style: double;
+	border-width: 10px;
+	border-color: gray;
+	
+
+}*/
+h2 {
+	color:  #ffe6e9 ;
+	font-size: 40px;
+	font-family: Times New Roman;
+
 }
 .quotes {
 	/*font-family:  Comic Sans MS;*/
 	font-family: fantasy;
 	color: white;
-	font-size: 34px; 
-	font-weight:bold;
+	/*font-size: 25px;*/ 
+	
 	/*font-style: italic;*/
 	  font-style: oblique;
+	  font-size: 30px;
 }
 input {
   border:none; 
@@ -19,4 +38,31 @@ input {
    margin-top: 7px; 
    border-bottom: 1px; 
     height: 40px
+}
+li {
+	font-size: 30px;
+	text-align: center;
+	list-style-position: inside;
+	color :MintCream    ;
+	font-family: Times New Roman;
+}
+ol {
+    /*list-style: none;*/
+    margin: 0;
+    padding: 0;
+}
+a {
+	font-size: 30px;
+}
+#donors {
+	font-family: Times New Roman;
+}
+#donate {
+	font-size: 35px;
+    margin-left: 35px;
+	 color:#ffe6e9;
+	 
+}
+label {
+	color:#ffe6e9;
 }
